@@ -1,0 +1,30 @@
+﻿Der Buildvorgang wurde am 08.11.2010 10:59:49 gestartet.
+     1>Projekt "C:\Users\Johann\Documents\Visual Studio 2010\Projects\JoesApplet\GpuzShMem\GpuzShMem.vcxproj" auf Knoten "3", rebuild Ziel(e).
+     1>_PrepareForClean:
+         Die Datei "Release\GpuzShMem.lastbuildstate" wird gelöscht.
+       InitializeBuildStatus:
+         "Release\GpuzShMem.unsuccessfulbuild" wird erstellt, da "AlwaysCreate" angegeben wurde.
+       GenerateTargetFrameworkMonikerAttribute:
+       Das Ziel "GenerateTargetFrameworkMonikerAttribute" wird übersprungen, da alle Ausgabedateien hinsichtlich der Eingabedateien aktuell sind.
+       ClCompile:
+         D:\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"D:\\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D GPUZSHMEM_EXPORTS /D _WINDLL /D _AFXDLL /EHa /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /TP /analyze- /errorReport:prompt GpuzShMem.cpp /clr:nostdlib 
+         GpuzShMem.cpp
+         _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+         D:\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /clr /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D GPUZSHMEM_EXPORTS /D _WINDLL /D _AFXDLL /EHa /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /TP /analyze- /errorReport:prompt "C:\Users\Johann\AppData\Local\Temp\.NETFramework,Version=v4.0.AssemblyAttributes.cpp"
+         .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+       Link:
+         D:\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"..\JoesApplet\bin\Release\GpuzShMem.dll" /INCREMENTAL:NO /NOLOGO /MANIFEST /ManifestFile:"Release\GpuzShMem.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Johann\Documents\Visual Studio 2010\Projects\JoesApplet\JoesApplet\bin\Release\GpuzShMem.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 /DLL Release\GpuzShMem.obj
+         "Release\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+            Bibliothek "..\JoesApplet\bin\Release\GpuzShMem.lib" und Objekt "..\JoesApplet\bin\Release\GpuzShMem.exp" werden erstellt.
+         LINK : /LTCG wurde angegeben, es ist jedoch keine Codegenerierung erforderlich. Entfernen Sie /LTCG aus der Linkbefehlszeile, um die Linkerleistung zu erhöhen.
+         GpuzShMem.vcxproj -> C:\Users\Johann\Documents\Visual Studio 2010\Projects\JoesApplet\GpuzShMem\..\JoesApplet\bin\Release\GpuzShMem.dll
+       Manifest:
+         D:\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"..\JoesApplet\bin\Release\GpuzShMem.dll;#2" /manifest Release\GpuzShMem.dll.intermediate.manifest "D:\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+       FinalizeBuildStatus:
+         Die Datei "Release\GpuzShMem.unsuccessfulbuild" wird gelöscht.
+         Aktualisieren des Timestamps von "Release\GpuzShMem.lastbuildstate".
+     1>Die Erstellung des Projekts "C:\Users\Johann\Documents\Visual Studio 2010\Projects\JoesApplet\GpuzShMem\GpuzShMem.vcxproj" ist abgeschlossen, rebuild Ziel(e).
+
+Das Erstellen war erfolgreich.
+
+Verstrichene Zeit 00:00:06.24

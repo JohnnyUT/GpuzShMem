@@ -1,0 +1,31 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly Microsoft.VisualC, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class Microsoft.VisualC.IsCXXReferenceModifier: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit (Obsolete)
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Microsoft.VisualC.IsConstModifier: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit (Obsolete)
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Microsoft.VisualC.IsLongModifier: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit (Obsolete)
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Microsoft.VisualC.IsVolatileModifier: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit (Obsolete)
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Microsoft.VisualC.IsSignedModifier: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit (Obsolete)
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Microsoft.VisualC.NoSignSpecifiedModifier: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit (Obsolete)
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Microsoft.VisualC.NeedsCopyConstructorModifier: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit (Obsolete)
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Microsoft.VisualC.DecoratedNameAttribute: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit (Obsolete)
+  :System.Attribute
+    Void .ctor(System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Microsoft.VisualC.MiscellaneousBitsAttribute: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit (Obsolete)
+  :System.Attribute
+    Void .ctor(Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 m_dwAttrs : Public
+Class Microsoft.VisualC.DebugInfoInPDBAttribute: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit (Obsolete)
+  :System.Attribute
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName

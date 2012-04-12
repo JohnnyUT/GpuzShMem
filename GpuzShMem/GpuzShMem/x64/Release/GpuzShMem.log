@@ -1,0 +1,30 @@
+﻿Der Buildvorgang wurde am 12.04.2012 19:35:29 gestartet.
+     1>Projekt "c:\Users\Johann\documents\visual studio 2010\Projects\GpuzShMem\GpuzShMem\GpuzShMem.vcxproj" auf Knoten "2", build Ziel(e).
+     1>PrepareForBuild:
+         Das Verzeichnis "c:\users\johann\documents\visual studio 2010\Projects\GpuzShMem\x64\Release\" wird erstellt.
+       InitializeBuildStatus:
+         "x64\Release\GpuzShMem.unsuccessfulbuild" wird erstellt, da "AlwaysCreate" angegeben wurde.
+       GenerateTargetFrameworkMonikerAttribute:
+       Das Ziel "GenerateTargetFrameworkMonikerAttribute" wird übersprungen, da alle Ausgabedateien hinsichtlich der Eingabedateien aktuell sind.
+       ClCompile:
+         d:\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /AI"D:\\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr /nologo /W3 /WX- /O2 /GL /D WIN32 /D NDEBUG /D _WINDLL /D _AFXDLL /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc100.pdb" /TP /FU"D:\\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"D:\\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"D:\\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"D:\\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /errorReport:prompt ..\GpuzShMem.cpp /clr:nostdlib 
+         GpuzShMem.cpp
+         _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+         d:\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /Zi /clr /nologo /W3 /WX- /O2 /GL /D WIN32 /D NDEBUG /D _WINDLL /D _AFXDLL /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc100.pdb" /TP /errorReport:prompt "C:\Users\Johann\AppData\Local\Temp\.NETFramework,Version=v4.0.AssemblyAttributes.cpp"
+         .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+       Link:
+         d:\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\johann\documents\visual studio 2010\Projects\GpuzShMem\x64\Release\GpuzShMem.dll" /INCREMENTAL:NO /NOLOGO /MANIFEST /ManifestFile:"x64\Release\GpuzShMem.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\johann\documents\visual studio 2010\Projects\GpuzShMem\x64\Release\GpuzShMem.pdb" /LTCG /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X64 /DLL x64\Release\GpuzShMem.obj
+         "x64\Release\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+            Bibliothek "c:\users\johann\documents\visual studio 2010\Projects\GpuzShMem\x64\Release\GpuzShMem.lib" und Objekt "c:\users\johann\documents\visual studio 2010\Projects\GpuzShMem\x64\Release\GpuzShMem.exp" werden erstellt.
+         LINK : /LTCG wurde angegeben, es ist jedoch keine Codegenerierung erforderlich. Entfernen Sie /LTCG aus der Linkbefehlszeile, um die Linkerleistung zu erhöhen.
+         GpuzShMem.vcxproj -> c:\users\johann\documents\visual studio 2010\Projects\GpuzShMem\x64\Release\GpuzShMem.dll
+       Manifest:
+         D:\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"c:\users\johann\documents\visual studio 2010\Projects\GpuzShMem\x64\Release\GpuzShMem.dll;#2" /manifest x64\Release\GpuzShMem.dll.intermediate.manifest "d:\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+       FinalizeBuildStatus:
+         Die Datei "x64\Release\GpuzShMem.unsuccessfulbuild" wird gelöscht.
+         Aktualisieren des Timestamps von "x64\Release\GpuzShMem.lastbuildstate".
+     1>Die Erstellung des Projekts "c:\Users\Johann\documents\visual studio 2010\Projects\GpuzShMem\GpuzShMem\GpuzShMem.vcxproj" ist abgeschlossen, build Ziel(e).
+
+Das Erstellen war erfolgreich.
+
+Verstrichene Zeit 00:00:08.09

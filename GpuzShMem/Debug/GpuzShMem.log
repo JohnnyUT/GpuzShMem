@@ -1,0 +1,25 @@
+﻿Der Buildvorgang wurde am 21.01.2011 13:40:15 gestartet.
+     1>Projekt "C:\Users\Johann\Documents\Visual Studio 2010\Projects\JoesApplet\GpuzShMem\GpuzShMem.vcxproj" auf Knoten "3", build Ziel(e).
+     1>InitializeBuildStatus:
+         "Debug\GpuzShMem.unsuccessfulbuild" wird erstellt, da "AlwaysCreate" angegeben wurde.
+       GenerateTargetFrameworkMonikerAttribute:
+       Das Ziel "GenerateTargetFrameworkMonikerAttribute" wird übersprungen, da alle Ausgabedateien hinsichtlich der Eingabedateien aktuell sind.
+       ClCompile:
+         Alle Ausgaben sind aktuell.
+         D:\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D GPUZSHMEM_EXPORTS /D _WINDLL /D _AFXDLL /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /analyze- /errorReport:prompt "C:\Users\Johann\AppData\Local\Temp\.NETFramework,Version=v4.0.AssemblyAttributes.cpp"
+         .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+       Link:
+         D:\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"..\JoesApplet\bin\Debug\GpuzShMem.dll" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\GpuzShMem.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Johann\Documents\Visual Studio 2010\Projects\JoesApplet\JoesApplet\bin\Debug\GpuzShMem.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 /DLL Debug\GpuzShMem.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+            Bibliothek "..\JoesApplet\bin\Debug\GpuzShMem.lib" und Objekt "..\JoesApplet\bin\Debug\GpuzShMem.exp" werden erstellt.
+         GpuzShMem.vcxproj -> C:\Users\Johann\Documents\Visual Studio 2010\Projects\JoesApplet\GpuzShMem\..\JoesApplet\bin\Debug\GpuzShMem.dll
+       Manifest:
+         D:\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"..\JoesApplet\bin\Debug\GpuzShMem.dll;#2" /manifest Debug\GpuzShMem.dll.intermediate.manifest "D:\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+       FinalizeBuildStatus:
+         Die Datei "Debug\GpuzShMem.unsuccessfulbuild" wird gelöscht.
+         Aktualisieren des Timestamps von "Debug\GpuzShMem.lastbuildstate".
+     1>Die Erstellung des Projekts "C:\Users\Johann\Documents\Visual Studio 2010\Projects\JoesApplet\GpuzShMem\GpuzShMem.vcxproj" ist abgeschlossen, build Ziel(e).
+
+Das Erstellen war erfolgreich.
+
+Verstrichene Zeit 00:00:06.01
