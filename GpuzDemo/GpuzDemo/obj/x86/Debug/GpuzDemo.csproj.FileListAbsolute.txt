@@ -1,0 +1,6 @@
+c:\users\johann\documents\visual studio 2010\Projects\GpuzDemo\GpuzDemo\bin\Debug\GpuzDemo.exe
+c:\users\johann\documents\visual studio 2010\Projects\GpuzDemo\GpuzDemo\bin\Debug\GpuzDemo.pdb
+c:\users\johann\documents\visual studio 2010\Projects\GpuzDemo\GpuzDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\johann\documents\visual studio 2010\Projects\GpuzDemo\GpuzDemo\obj\x86\Debug\GpuzDemo.exe
+c:\users\johann\documents\visual studio 2010\Projects\GpuzDemo\GpuzDemo\obj\x86\Debug\GpuzDemo.pdb
+c:\users\johann\documents\visual studio 2010\Projects\GpuzDemo\GpuzDemo\bin\Debug\GpuzShMem.dll
